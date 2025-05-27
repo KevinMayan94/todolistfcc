@@ -24,7 +24,7 @@ Coming soon or run locally by following the steps below.
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-- [Optional] LocalStorage for saving tasks
+- LocalStorage for saving tasks
 
 ## ⚙️ Installation
 
@@ -33,6 +33,6 @@ Coming soon or run locally by following the steps below.
 git clone https://github.com/kevinmayan94/todofcc.git
 
 # Navigate into the project directory
-cd todo-fcc
+cd todofcc
 
 # Open index.html in your browser
