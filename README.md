@@ -8,7 +8,7 @@ Coming soon or run locally by following the steps below.
 
 ## 📸 Screenshot
 
-![image](https://github.com/user-attachments/assets/a406be50-4217-4be5-8a37-b902de1d1347)
+![image](https://github.com/user-attachments/assets/daa79ac2-8574-4599-8051-bf386302cf95)
 
 
 
